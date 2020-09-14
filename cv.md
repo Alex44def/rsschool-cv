@@ -14,8 +14,9 @@ Having reached a certain development ceiling in my field of work, I decided to f
 - Initial knowledge HTML, CSS, SASS/SCSS.
 - Understanding of relational databases, their creation and queries to them.
 - My first project:
-https://gitlab.com/hockeyshop/onlineshop-web
-https://gitlab.com/hockeyshop/onlineshop
+  - https://gitlab.com/hockeyshop/onlineshop-web
+  - https://gitlab.com/hockeyshop/onlineshop
+
 #### Work experience
 - 01/12/2005-10/07/2009 ООО «Интеграл» - _technical department installer_
 - 22/09/2009-01/02/2012 ООО «Полюс-Инженеринг» - _engineer of security and fire systems_
